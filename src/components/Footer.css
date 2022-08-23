@@ -1,0 +1,8 @@
+.one{
+    display: 'flex';
+    flex-direction: 'flex-start';
+}
+.two{
+    display: 'flex';
+    align-items: 'center';
+}
